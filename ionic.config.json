@@ -1,0 +1,7 @@
+{
+  "name": "flux-companion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
