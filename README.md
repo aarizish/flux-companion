@@ -65,7 +65,7 @@ npx cap open android
 Found a bug or have an idea?
 Open an issue or start a discussion:
 
-> [github.com/aarizish/flux-playground/issues](https://github.com/aarizish/flux-playground/issues)
+> [github.com/aarizish/flux-companion/issues](https://github.com/aarizish/flux-companion/issues)
 
 Contributions, ideas, and pull requests are welcome.
 
