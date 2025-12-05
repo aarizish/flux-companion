@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'flux-companion',
+  appId: 'in.aarizish.fluxcompanion',
+  appName: 'Flux Companion',
   webDir: 'dist'
 };
 
